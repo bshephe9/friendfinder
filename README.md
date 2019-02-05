@@ -5,7 +5,7 @@ Created during week 13 of the GA Tech Coding Bootcamp. The goal behind the Frien
 </div>
 
 <h1>Getting Started</h1>
-
+Visit: https://friendfinderapp2.herokuapp.com/
 
 
 <h1>Screen Shots</h1>
